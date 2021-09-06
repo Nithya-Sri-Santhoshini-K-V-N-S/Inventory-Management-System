@@ -1,5 +1,5 @@
-## Skill India Python for AI/ML Internship
-This repository is having Inventory Management System code which is an assignment given in the Skill India AI/ML Internship Programme.
+## Skill India Python for ML/AI Internship
+This repository is having Inventory Management System code which is an assignment given in the Skill India Python for ML/AI Internship Programme.
 
 ## Brief Description
 Python Programmming language(JSON) is used to design this Inventory Management System.New items can be addded into the inventory and it is updated in the record.json file.User can purchase the products and the sales.json file is generated which contains the information about the transaction.
